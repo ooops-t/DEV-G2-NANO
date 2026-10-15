@@ -8022,7 +8022,7 @@
 					)
 				)
 			)
-			(text "USDHC1"
+			(text "USDHC2"
 				(at 20.32 -8.89 900)
 				(effects
 					(font
