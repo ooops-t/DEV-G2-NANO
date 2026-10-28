@@ -6723,24 +6723,6 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -25.4 180)
-				(length 5.08)
-				(name "GPIO_DISP_B2_15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "A4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
 				(at 43.18 -35.56 180)
 				(length 5.08)
 				(name "GPIO_DISP_B2_13"
@@ -6777,7 +6759,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -48.26 180)
+				(at 43.18 -22.86 180)
 				(length 5.08)
 				(name "GPIO_DISP_B2_14"
 					(effects
@@ -6795,7 +6777,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -45.72 180)
+				(at 43.18 -15.24 180)
 				(length 5.08)
 				(name "GPIO_SD_B1_05"
 					(effects
@@ -6805,6 +6787,60 @@
 					)
 				)
 				(number "A16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -48.26 180)
+				(length 5.08)
+				(name "GPIO_EMC_B1_17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -25.4 180)
+				(length 5.08)
+				(name "GPIO_EMC_B1_18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -45.72 180)
+				(length 5.08)
+				(name "GPIO_DISP_B2_08"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6831,7 +6867,25 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -43.18 180)
+				(at 43.18 -12.7 180)
+				(length 5.08)
+				(name "GPIO_SD_B1_04"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -5.08 180)
 				(length 5.08)
 				(name "GPIO_SD_B1_00"
 					(effects
@@ -6849,7 +6903,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -20.32 180)
+				(at 43.18 -10.16 180)
 				(length 5.08)
 				(name "GPIO_SD_B1_03"
 					(effects
@@ -6867,7 +6921,43 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -22.86 180)
+				(at 43.18 -20.32 180)
+				(length 5.08)
+				(name "GPIO_EMC_B1_19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -43.18 180)
+				(length 5.08)
+				(name "GPIO_EMC_B1_12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -7.62 180)
 				(length 5.08)
 				(name "GPIO_SD_B1_02"
 					(effects
@@ -6903,7 +6993,25 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -5.08 180)
+				(at 43.18 -2.54 180)
+				(length 5.08)
+				(name "GPIO_SD_B1_01"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 43.18 -58.42 180)
 				(length 5.08)
 				(name "GPIO_SD_B2_05"
 					(effects
@@ -6913,24 +7021,6 @@
 					)
 				)
 				(number "E14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 43.18 -7.62 180)
-				(length 5.08)
-				(name "GPIO_SD_B2_03"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6957,24 +7047,6 @@
 				)
 			)
 			(pin unspecified line
-				(at 43.18 -2.54 180)
-				(length 5.08)
-				(name "GPIO_SD_B2_04"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
 				(at 43.18 -86.36 180)
 				(length 5.08)
 				(name "GPIO_EMC_B1_36"
@@ -6985,24 +7057,6 @@
 					)
 				)
 				(number "G1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 43.18 -10.16 180)
-				(length 5.08)
-				(name "GPIO_SD_B2_02"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "H13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7057,42 +7111,6 @@
 					)
 				)
 				(number "J12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 43.18 -12.7 180)
-				(length 5.08)
-				(name "GPIO_SD_B2_01"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "J14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 43.18 -15.24 180)
-				(length 5.08)
-				(name "GPIO_SD_B2_00"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "J15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7389,6 +7407,24 @@
 				)
 			)
 			(pin unspecified line
+				(at -5.08 -157.48 0)
+				(length 5.08)
+				(name "GPIO_EMC_B2_12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
 				(at -5.08 -139.7 0)
 				(length 5.08)
 				(name "GPIO_EMC_B2_07"
@@ -7507,6 +7543,24 @@
 					)
 				)
 				(number "N2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -5.08 -160.02 0)
+				(length 5.08)
+				(name "GPIO_EMC_B2_18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7669,6 +7723,24 @@
 					)
 				)
 				(number "P1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -5.08 -154.94 0)
+				(length 5.08)
+				(name "GPIO_EMC_B2_16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8022,7 +8094,7 @@
 					)
 				)
 			)
-			(text "USDHC2"
+			(text "USDHC1"
 				(at 20.32 -8.89 900)
 				(effects
 					(font
@@ -8040,6 +8112,14 @@
 			)
 			(text "LPSPI5"
 				(at 21.59 -96.52 900)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "Reserved for\nFlexSPI1 DQS\nloopback"
+				(at 30.48 -63.5 0)
 				(effects
 					(font
 						(size 1.27 1.27)
