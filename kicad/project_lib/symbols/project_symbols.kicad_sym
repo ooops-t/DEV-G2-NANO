@@ -11011,24 +11011,6 @@
 					)
 				)
 			)
-			(pin input line
-				(at -5.08 -35.56 0)
-				(length 5.08)
-				(name "E2_Z/LS2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
 				(at 43.18 -63.5 180)
 				(length 5.08)
@@ -11095,24 +11077,6 @@
 					)
 				)
 				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -5.08 -38.1 0)
-				(length 5.08)
-				(name "E3_Z/LS3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11338,24 +11302,6 @@
 					)
 				)
 			)
-			(pin input line
-				(at -5.08 -40.64 0)
-				(length 5.08)
-				(name "E4_Z/LS4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 21.59 5.08 270)
 				(length 5.08)
@@ -11489,7 +11435,7 @@
 			(pin input line
 				(at -5.08 -33.02 0)
 				(length 5.08)
-				(name "E1_Z/LS1"
+				(name "LS1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11540,6 +11486,24 @@
 					)
 				)
 			)
+			(pin input line
+				(at -5.08 -35.56 0)
+				(length 5.08)
+				(name "LS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_in line
 				(at 19.05 -76.2 90)
 				(length 5.08)
@@ -11552,6 +11516,24 @@
 					)
 				)
 				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -38.1 0)
+				(length 5.08)
+				(name "LS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11608,6 +11590,24 @@
 					)
 				)
 				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 -40.64 0)
+				(length 5.08)
+				(name "LS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
 					(effects
 						(font
 							(size 1.27 1.27)
