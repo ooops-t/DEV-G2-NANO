@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td>TODO</td>
+    <td>GPIO_EMC_B1_09</td>
     <td>PDn</td>
     <td>MCU &rarr; Module</td>
     <td>
@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td>GPIO_SD_B2_05</td>
+    <td>GPIO_SD_B1_00</td>
     <td>SD_CMD</td>
     <td>MCU &harr; Module</td>
     <td>
@@ -41,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td>GPIO_SD_B2_03</td>
+    <td>GPIO_SD_B1_02</td>
     <td>SD_DAT[0]</td>
     <td>MCU &harr; Module</td>
     <td>
@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td>GPIO_SD_B2_02</td>
+    <td>GPIO_SD_B1_03</td>
     <td>SD_DAT[1]</td>
     <td>MCU &harr; Module</td>
     <td>
@@ -61,7 +61,7 @@
     </td>
   </tr>
   <tr>
-    <td>GPIO_SD_B2_01</td>
+    <td>GPIO_SD_B1_04</td>
     <td>SD_DAT[2]</td>
     <td>MCU &harr; Module</td>
     <td>
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td>GPIO_SD_B2_00</td>
+    <td>GPIO_SD_B1_05</td>
     <td>SD_DAT[3]</td>
     <td>MCU &harr; Module</td>
     <td>
